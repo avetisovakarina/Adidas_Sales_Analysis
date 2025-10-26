@@ -1,6 +1,6 @@
 # 🏷️ Adidas Sales Analysis (Google Sheets + Python + Power BI + DAX)
 
-##📋 Project Overview
+## 📋 Project Overview
 This project analyzes the Adidas Sales Dataset (from Kaggle: https://www.kaggle.com/datasets/dcodernikhil1/adidas-sales-data). 
 The dataset contains transaction-level sales information across retailers, products, states, regions, and sales channels.
 This project focuses on analyzing Adidas sales data to identify key business insights, trends, and growth opportunities.
