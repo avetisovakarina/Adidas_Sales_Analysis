@@ -32,7 +32,7 @@ Strong seasonality was observed in Q2 and Q4, aligning with marketing campaigns 
 Promotions significantly boosted short-term sales but reduced profit margins.
 
 ## 📊 Dashboard
-An interactive dashboard was built to visualize:
+An interactive dashboard was built to visualize (https://app.powerbi.com/links/FmfbSTbSZA?ctid=7c3c6e36-4292-483f-9d99-13675cceb4a4&pbi_source=linkShare):
 
 ## General Sales Analysis
 <img width="1440" height="829" alt="image" src="https://github.com/user-attachments/assets/fff4b302-c0d0-456f-9fc9-a1c89bacf44c" />
