@@ -24,7 +24,7 @@ The dataset contains information about Adidas sales transactions, including:
 ## 🛠️ Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Power BI and DAX for interactive dashboards
-- Google Sheets for initial data exploration
+- Google Sheets for initial data exploration (https://docs.google.com/spreadsheets/d/1JDomyqvnDQCDZ2Ge-K6DLloBLTosb11MgPmgKwVyUAo/edit?usp=sharing)
 
 ## 🔍 Key Insights
 
