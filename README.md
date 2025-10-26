@@ -26,13 +26,6 @@ The dataset contains information about Adidas sales transactions, including:
 - Power BI and DAX for interactive dashboards
 - Google Sheets for initial data exploration (https://docs.google.com/spreadsheets/d/1JDomyqvnDQCDZ2Ge-K6DLloBLTosb11MgPmgKwVyUAo/edit?usp=sharing)
 
-## 🔍 Key Insights
-
-The North America region generated the highest revenue, driven by footwear sales.
-Running Shoes and Apparel were the top-selling categories.
-Strong seasonality was observed in Q2 and Q4, aligning with marketing campaigns and holiday promotions.
-Promotions significantly boosted short-term sales but reduced profit margins.
-
 ## 📊 Dashboard
 An interactive dashboard (https://app.powerbi.com/links/FmfbSTbSZA?ctid=7c3c6e36-4292-483f-9d99-13675cceb4a4&pbi_source=linkShare) was built to visualize:
 
