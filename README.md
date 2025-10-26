@@ -2,8 +2,8 @@
 
 ## 📬 Contact
 If you’d like to connect or discuss data visualization and analytics:
-📧 [karyna.avetisova@nure.ua]
-🔗 [https://www.linkedin.com/in/karina-avetisova/]
+- 📧 [karyna.avetisova@nure.ua]
+- 🔗 [https://www.linkedin.com/in/karina-avetisova/]
 
 ## Full presentation: https://drive.google.com/file/d/1B_MCblRtGoyKSooxy9J8fUo0-n4FP2k4/view?usp=sharing
 
