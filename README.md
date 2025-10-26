@@ -1,5 +1,7 @@
 # 🏷️ Adidas Sales Analysis (Google Sheets + Python + Power BI + DAX)
 
+## Full presentation: https://drive.google.com/file/d/1B_MCblRtGoyKSooxy9J8fUo0-n4FP2k4/view?usp=sharing
+
 ## 📋 Project Overview
 This project analyzes the Adidas Sales Dataset (from Kaggle: https://www.kaggle.com/datasets/dcodernikhil1/adidas-sales-data). 
 The dataset contains transaction-level sales information across retailers, products, states, regions, and sales channels.
@@ -32,7 +34,7 @@ Strong seasonality was observed in Q2 and Q4, aligning with marketing campaigns 
 Promotions significantly boosted short-term sales but reduced profit margins.
 
 ## 📊 Dashboard
-An interactive dashboard was built to visualize (https://app.powerbi.com/links/FmfbSTbSZA?ctid=7c3c6e36-4292-483f-9d99-13675cceb4a4&pbi_source=linkShare):
+An interactive dashboard (https://app.powerbi.com/links/FmfbSTbSZA?ctid=7c3c6e36-4292-483f-9d99-13675cceb4a4&pbi_source=linkShare) was built to visualize:
 
 ## General Sales Analysis
 <img width="1440" height="829" alt="image" src="https://github.com/user-attachments/assets/fff4b302-c0d0-456f-9fc9-a1c89bacf44c" />
